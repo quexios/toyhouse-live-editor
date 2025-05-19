@@ -67,7 +67,7 @@ npm run dev
 To use a different file:
 
 * Open `index.html`
-* Scroll to the bottom or search for `</head>` (around line 686)
+* Search for `</head>` (around line 686)
 * Replace this line:
 
 ```html
