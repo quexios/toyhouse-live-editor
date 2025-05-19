@@ -11,7 +11,7 @@ This was originally made for personal use.
 If you're **new to coding**, you might prefer these easier online tools:
 
 * [circlejourney’s Toyhouse Editor](https://th.circlejourney.net/)
-* [Playhouse by cheeriko](https://playhouse.cheeriko.com/)
+* [Playhouse by cheeriko](https://cheeriko.github.io/playhouse/editor.html)
 
 ---
 
