@@ -1,0 +1,19 @@
+{
+  "name": "toyhouse-htmlcss",
+  "version": "1.0.0",
+  "description": "live edit toyhouse html/css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quexios/toyhouse-live-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quexios/toyhouse-live-editor/issues"
+  },
+  "homepage": "https://github.com/quexios/toyhouse-live-editor#readme"
+}
