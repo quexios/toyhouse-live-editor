@@ -4,8 +4,9 @@
 		<title>toyhouse live editor</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta charset="UTF-8">
-		<link href="https://toyhou.se/css/main.css?cachebust=1746515931" rel="stylesheet">
-		<link href="https://toyhou.se/css/site_bootstrap.css?cachebust=1746515931" rel="stylesheet"> 
+		<link href="/src/site/main.css" rel="stylesheet">
+		<!-- Site theme, feel free to change to any others (night, bee, pink, teal)-->
+		<link href="/src/site/default.css" rel="stylesheet"> 
 		<link
 				rel="stylesheet"
 				href="https://site-assets.fontawesome.com/releases/v5.15.4/css/all.css"
@@ -389,7 +390,8 @@
 					</div></section>
 			</div>
 		</div>
-
+		<script src="/src/site/site.js"></script>
+		<script src="/src/site/sticky-footer.js"></script>
 
 		<script>
 			function includeHTML() {
@@ -420,6 +422,6 @@
 				}
 			}
 		</script>
-		<script>includeHTML();</script>
+		<script>includeHTML(); stickyFooter.init();</script>
 	</body>
 </html>
